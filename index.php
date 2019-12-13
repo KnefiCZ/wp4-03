@@ -37,6 +37,8 @@
     <?php 
     } 
     ?>
+    </table>
+    <table class="table table-striped">
         <tr>
              <td>ID</td>
              <td>ID Dlužníka</td>
